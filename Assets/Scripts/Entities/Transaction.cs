@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b49f2526f19b876584c41c656ab0b38a0164662ef802124715d6d1a0fff4c424
-size 646
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary>
+/// Class containing an ethereum transaction's information useful for callback handling
+/// </summary>
+[Serializable]
+public class Transaction
+{
+    public Transaction()
+    {
+
+    }
+
+    public Transaction(string typeOfTransaction, string result, bool isSuccess)
+    {
+        TypeOfTransaction = typeOfTransaction;
+        Result = result;
+        IsSuccess = isSuccess;
+    }
+
+    public string TypeOfTransaction { get; set; }
+    public string Result { get; set; }
+    public bool IsSuccess { get; set; }
+}

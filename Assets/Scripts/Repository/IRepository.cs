@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b926083ea886a0bb36ebc396737a2502037f6abaea02da90428d3db9c8e31bd1
-size 483
+using System.Collections;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using UnityEngine;
+
+public interface IRepository 
+{
+    public Task<W> RetrieveData<W>(object payload = null, string action = "");
+    public Task<W> RetrieveDataGet<W>(string action = "", List<(string,string)> headers = null);
+
+    public void DoTransaction(object payload, string callbackData, string action = "api/contracts/getContractInfo", string typeOfTransaction = "");
+
+}
