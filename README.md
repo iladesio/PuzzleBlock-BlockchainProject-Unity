@@ -1,1 +1,3 @@
-
+This is the associated game part of Unity of PuzzleBlock-Blockchain Project, aims to be a fun and educational platform aimed at gamers and students curious about the intricacies of blockchain technology (based on it). By navigating through its levels carefully on certain themes of the blockchain itself, players not only immerse themselves in challenging puzzles, but also gain a deeper understanding of how blockchain works in a fun and interactive way.
+The opportunity to purchase NFT introduces players to the concept of digital ownership, further enriching their knowledge in the area of cryptocurrencies as well. 
+The most important goal of PuzzleBlock is to bridge the gap between complex blockchain concepts and the general public by making this cutting-edge technology accessible to all through the universal language of gaming. 
