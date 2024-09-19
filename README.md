@@ -2,7 +2,7 @@
 
 # PuzzleBlock - Blockchain Gaming Experience
 
-Welcome to the **PuzzleBlock** game, part of the innovative PuzzleBlock-Blockchain Project! This project is designed to be a fun and educational platform for gamers and students who are curious about the fascinating world of blockchain technology.
+Welcome to the **PuzzleBlock** game, part of the innovative PuzzleBlock-Blockchain Project! This is ONLY the Unity project is designed to be a fun and educational platform for gamers and students who are curious about the fascinating world of blockchain technology. You have also to configure the server-side project in the repo https://github.com/iladesio/PuzzleBlock-BlockchainProject-Server **check it out!**
 
 ## Why PuzzleBlock?
 
