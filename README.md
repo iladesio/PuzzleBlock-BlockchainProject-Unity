@@ -1,4 +1,7 @@
 ---
+title: "PuzzleBlock - Blockchain Gaming Experience"
+---
+
 # PuzzleBlock - Blockchain Gaming Experience
 
 Welcome to the PuzzleBlock game, part of the innovative PuzzleBlock-Blockchain Project! This Unity project is designed to offer a fun and educational platform for gamers and students curious about the fascinating world of blockchain technology.
