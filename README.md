@@ -1,6 +1,3 @@
----
-title: "PuzzleBlock - Blockchain Gaming Experience"
----
 
 # PuzzleBlock - Blockchain Gaming Experience
 
